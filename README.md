@@ -1,0 +1,2 @@
+# logotipos-sponsors
+just logos
